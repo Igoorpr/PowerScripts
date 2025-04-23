@@ -2,7 +2,9 @@
 
 Power Scripts
 
-A set of simple scripts to automate recurring tasks in a development environment.
+A set of simple scripts to automate recurring tasks in a development environment.<br>
+
+Important: Before running the script, make sure all directory paths are properly configured.
 
 - Smart File Copy<br>
 	Copies only recently modified files.<br>
