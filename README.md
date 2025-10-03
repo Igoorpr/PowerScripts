@@ -23,6 +23,8 @@ Important: Before running the script, make sure all directory paths are properly
 - Suspicious File Detection<br>
 	Scans the system for potentially malicious files.
 
+- The script runs SQL commands from a .rpt file, splitting by GO and executing each block on SQL Server using sqlcmd.
+
 ## Technologies Used
 
 - PowerShell 
